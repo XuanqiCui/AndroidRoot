@@ -12,3 +12,5 @@
 重启获得root权限
 ## 准备工作
 [准备](https://github.com/XuanqiCui/AndroidRoot/blob/main/Prepare.md)
+## Root开始
+[Root](https://github.com/XuanqiCui/AndroidRoot/blob/main/Root.md)
