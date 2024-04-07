@@ -81,3 +81,15 @@ fastboot boot twrp.img
 开机，把`Magisk.apk`安装了，找不着的话就拿U盘再导一份。
 <br>
 至此Magsik安装完成！
+
+如果以下`超级用户`可以点击并且`版本号`能显示，那就说明Root权限已经得到了！
+
+<div align ="center">
+   <img src="Assets/rootconfirm.png" width="300" height="400">
+  <br>
+  来源:(https://space.bilibili.com/25876945?spm_id_from=333.337.0.0)
+</div>
+
+## 模块安装
+
+接下来就可以再magisk中安装各种模块玩儿了，想安装什么模块自己b站或者CSDN搜就完了，很多种
