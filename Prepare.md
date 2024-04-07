@@ -27,7 +27,7 @@
 
 ## Twrp准备
 
-因为我采用的是卡刷的方式，所以去TWRP官网，找到你手机支持的twrp版本。我这里用的是最新的`3.7.1`
+因为我采用的是卡刷的方式，所以去TWRP官网，找到你手机支持的twrp版本。我这里用的是最新的`3.7.1`[Twrp官网](https://twrp.me/)
 下载并保存到 `\platform-tools` 文件夹下。到此我们Twrp也准备好了！
 
 这里详细的说明和原理建议看B站极客湾的视频，讲解的比较详细 [点击跳转](https://www.bilibili.com/video/BV1BY4y1H7Mc)
